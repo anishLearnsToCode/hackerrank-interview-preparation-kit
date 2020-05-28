@@ -2,7 +2,7 @@ import java.util.Objects;
 import java.util.Scanner;
 
 // https://www.hackerrank.com/challenges/new-year-chaos/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays
-public class NeyYearChaos {
+public class NewYearChaos {
     public static void main(String[] args) {
         int[] array = StdIn.getIntArray();
         Solution.minimumBribes(array);
