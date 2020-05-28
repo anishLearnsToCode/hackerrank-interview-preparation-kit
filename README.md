@@ -31,6 +31,8 @@ tutorials on HackerRank:
 This repository contains solutions to the Interview Preparation Kit Tutorial on HackerRank. My
 HackerRank profile can be viewed [here](https://www.hackerrank.com/anishviewer).
 
+To Contribute have a look at [CONTRIBUTING.md](CONTRIBUTING.md) and happy coding 😀 🐱‍💻
+
 I have also solved other domains on HackerRank that can be viewed at:
 
 | Domain | Solutions Repository Link |
@@ -53,5 +55,5 @@ I have also solved other domains on HackerRank that can be viewed at:
 ### Graphs
 | Problem | Difficulty | Solution Link |
 |---------|------------|:-------------:|
-| [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development/problem) | Medium | [Solution](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit/blob/master/src/graphs/RoadsAndLibraries.java) |
-| [Find The Nearest Clone](https://www.hackerrank.com/challenges/find-the-nearest-clone/problem) | Medium | |
+| [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development/problem) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit/blob/master/src/graphs/RoadsAndLibraries.java) |
+| [Find The Nearest Clone](https://www.hackerrank.com/challenges/find-the-nearest-clone/problem) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit/blob/master/src/graphs/FindNearestNodeNaive.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit/blob/master/src/graphs/find-nearest-node.py) |
