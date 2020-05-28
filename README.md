@@ -53,5 +53,5 @@ I have also solved other domains on HackerRank that can be viewed at:
 ### Graphs
 | Problem | Difficulty | Solution Link |
 |---------|------------|:-------------:|
-| [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development/problem) | Medium | |
-| []() | Medium | |
+| [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development/problem) | Medium | [Solution](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit/blob/master/src/graphs/RoadsAndLibraries.java) |
+| [Find The Nearest Clone](https://www.hackerrank.com/challenges/find-the-nearest-clone/problem) | Medium | |
