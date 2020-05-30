@@ -47,9 +47,10 @@ I have also solved other domains on HackerRank that can be viewed at:
 ### Arrays
 | Problem | Difficulty | Solution Link |
 |---------|------------|:-------------:|
-| [Arrays Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem) | Easy | |
+| [Arrays Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit/blob/master/src/arrays/LeftRotation.java) |
 | [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem) | Easy | |
 | [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem) | Easy | |
+| [Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2/problem) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit/blob/master/src/arrays/MinimumSwaps2.java) |
 
 
 ### Graphs
