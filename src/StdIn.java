@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class StdIn {
+public class StdIn {
     private static final Scanner SCANNER = new Scanner(System.in);
 
     static int[] getIntArray() {
