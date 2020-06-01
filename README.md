@@ -44,6 +44,15 @@ I have also solved other domains on HackerRank that can be viewed at:
 
 ## Sub Domains & Problems (+Solutions) in the Interview Preparation Kit
 
+### Warm Up Challenges 
+| Problem | Difficulty | Solution Link |
+|---------|------------|:-------------:|
+| [Sock Merchant]() | Easy |
+| [Counting Valleys]() | Easy |
+| [Jumping on the clouds]() | Easy |
+| [Repeated String]() | Easy |
+
+
 ### Arrays
 | Problem | Difficulty | Solution Link |
 |---------|------------|:-------------:|
