@@ -56,7 +56,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 ### Dictionaries and Hashmaps
 | Problem | Difficulty | Solution Link |
 |---------|------------|:-------------:|
-| [Hash Tables: Ransom Note]() | Easy | |
+| [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit/blob/master/src/dictionaries/HashTablesRansomNote.java) |
 | [Two Strings]() | Easy | |
 | [Sherlock and Anagrams]() | Medium | |
 | [Count Triplets]() | Medium | |
