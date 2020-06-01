@@ -58,7 +58,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 |---------|------------|:-------------:|
 | [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit/blob/master/src/dictionaries/HashTablesRansomNote.java) |
 | [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit/blob/master/src/dictionaries/TwoStrings.java) |
-| [Sherlock and Anagrams]() | Medium | |
+| [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit/blob/master/src/dictionaries/SherlockAndAnagrams.java) |
 | [Count Triplets]() | Medium | |
 | [Frequency Queries]() | Medium | |
 
