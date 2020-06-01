@@ -47,7 +47,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 ### Warm Up Challenges 
 | Problem | Difficulty | Solution Link |
 |---------|------------|:-------------:|
-| [Sock Merchant]() | Easy |
+| [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit/blob/master/src/warmup/SockMerchant.java) |
 | [Counting Valleys]() | Easy |
 | [Jumping on the clouds]() | Easy |
 | [Repeated String]() | Easy |
