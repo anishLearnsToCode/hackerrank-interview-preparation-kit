@@ -52,7 +52,6 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Jumping on the clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit/blob/master/src/warmup/JumpingOnTheClouds.java) |
 | [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit/blob/master/src/warmup/RepeatedString.java) |
 
-
 ### Arrays
 | Problem | Difficulty | Solution Link |
 |---------|------------|:-------------:|
@@ -61,6 +60,15 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit/blob/master/src/arrays/NewYearChaos.java) |
 | [Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2/problem) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit/blob/master/src/arrays/MinimumSwaps2.java) |
 | [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem) | Hard | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit/blob/master/src/arrays/ArrayManipulation.java) |
+
+### String Manipulation
+| Problem | Difficulty | Solution Link |
+|---------|------------|:-------------:|
+| [Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem) | Easy | |
+| [Alternating Characters]() | Easy | |
+| [Sherlock and The Valid String]() | Medium | |
+| [Special String Again]() | Medium | |
+| [Common Child]() | Medium | |
 
 ### Dictionaries and Hashmaps
 | Problem | Difficulty | Solution Link |
