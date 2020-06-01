@@ -49,7 +49,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 |---------|------------|:-------------:|
 | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit/blob/master/src/warmup/SockMerchant.java) |
 | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem?h_l=interview) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit/blob/master/src/warmup/CountingValleys.java) |
-| [Jumping on the clouds]() | Easy |
+| [Jumping on the clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit/blob/master/src/warmup/JumpingOnTheClouds.java) |
 | [Repeated String]() | Easy |
 
 
