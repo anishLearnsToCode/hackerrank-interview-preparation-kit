@@ -64,7 +64,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 ### String Manipulation
 | Problem | Difficulty | Solution Link |
 |---------|------------|:-------------:|
-| [Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem) | Easy | |
+| [Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit/blob/master/src/string/StringsMakingAnagrams.java) |
 | [Alternating Characters]() | Easy | |
 | [Sherlock and The Valid String]() | Medium | |
 | [Special String Again]() | Medium | |
