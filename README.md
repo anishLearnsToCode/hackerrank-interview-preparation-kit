@@ -68,7 +68,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit/blob/master/src/string/AlternatingCharacters.java) |
 | [Sherlock and The Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit/blob/master/src/string/SherlockAndValidStrings.java) |
 | [Special String Again](https://www.hackerrank.com/challenges/special-palindrome-again/problem) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit/blob/master/src/string/SpecialStringAgain.java) |
-| [Common Child]() | Medium | |
+| [Common Child](https://www.hackerrank.com/challenges/common-child/problem) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit/blob/master/src/string/CommonChild.java) |
 
 ### Dictionaries and Hashmaps
 | Problem | Difficulty | Solution Link |
