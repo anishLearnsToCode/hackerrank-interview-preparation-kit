@@ -70,6 +70,17 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Special String Again](https://www.hackerrank.com/challenges/special-palindrome-again/problem) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit/blob/master/src/string/SpecialStringAgain.java) |
 | [Common Child](https://www.hackerrank.com/challenges/common-child/problem) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit/blob/master/src/string/CommonChild.java) |
 
+### Search
+| Problem | Difficulty | Solution Link |
+|---------|------------|:-------------:|
+| [Swap Nodes [Algo]]() | Medium | |
+| [Pairs]() | Medium | |
+| [Triple Sum]() | Medium | |
+| [Minimum Time Required]() | Medium | |
+| [Hash Tables: Ice Cream Parlour]() | Medium | |
+| [Maximum Subarray Sum]() | Hard | |
+| [Making Candies]() | Hard | |
+
 ### Dictionaries and Hashmaps
 | Problem | Difficulty | Solution Link |
 |---------|------------|:-------------:|
