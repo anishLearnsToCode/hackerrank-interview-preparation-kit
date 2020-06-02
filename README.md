@@ -76,8 +76,8 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo/problem) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit/blob/master/src/search/SwapNodesAlgo.java) |
 | [Pairs](https://www.hackerrank.com/challenges/pairs/problem) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit/blob/master/src/search/Pairs.java) |
 | [Triple Sum](https://www.hackerrank.com/challenges/triple-sum/problem) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit/blob/master/src/search/TripleSum.java) |
-| [Minimum Time Required]() | Medium | |
-| [Hash Tables: Ice Cream Parlour]() | Medium | |
+| [Minimum Time Required]() | Medium | []() |
+| [Hash Tables: Ice Cream Parlour](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit/blob/master/src/search/HashTableIceCreamParlour.java) |
 | [Maximum Subarray Sum]() | Hard | |
 | [Making Candies]() | Hard | |
 
