@@ -78,7 +78,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Triple Sum](https://www.hackerrank.com/challenges/triple-sum/problem) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit/blob/master/src/search/TripleSum.java) |
 | [Minimum Time Required](https://www.hackerrank.com/challenges/minimum-time-required/problem) | Medium | [![C++](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit/blob/master/src/search/minimum-time-required.cpp) |
 | [Hash Tables: Ice Cream Parlour](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit/blob/master/src/search/HashTableIceCreamParlour.java) |
-| [Maximum Subarray Sum]() | Hard | |
+| [Maximum Subarray Sum](https://www.hackerrank.com/challenges/maximum-subarray-sum/problem) | Hard | [![Python](https://img.icons8.com/color/35/000000/python.png)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit/blob/master/src/search/maximum-sum-subarray.py) |
 | [Making Candies]() | Hard | |
 
 ### Dictionaries and Hashmaps
