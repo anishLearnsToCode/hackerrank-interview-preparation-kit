@@ -73,7 +73,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 ### Search
 | Problem | Difficulty | Solution Link |
 |---------|------------|:-------------:|
-| [Swap Nodes [Algo]]() | Medium | |
+| [Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo/problem) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit/blob/master/src/search/SwapNodesAlgo.java) |
 | [Pairs]() | Medium | |
 | [Triple Sum]() | Medium | |
 | [Minimum Time Required]() | Medium | |
