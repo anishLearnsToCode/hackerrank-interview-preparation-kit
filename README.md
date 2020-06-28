@@ -1,35 +1,42 @@
 # HackerRank Interview Preparation Kit
+
 HackerRank is an online platform that offers programmers the ability to test their
-sills, practice and learn something new. 
+sills, practice and learn something new. The problem sets on HackerRank are divided in Domains & Tutorials, 
+and the following are the domains & tutorials on HackerRank:
 
-The problem sets on HackerRank are divided in Domains & Tutorials, and the following are the domains & 
-tutorials on HackerRank:
+<details>
+    <summary><b>Domains</b></summary>
+    <ul>
+        <li><a href="https://www.hackerrank.com/domains/algorithms">Algorithms</a></li>
+        <li><a href="https://www.hackerrank.com/domains/data-structures">Data Structures</a></li>
+        <li><a href="https://www.hackerrank.com/domains/mathematics">Mathematics</a></li>
+        <li><a href="https://www.hackerrank.com/domains/c">C</a></li>
+        <li><a href="https://www.hackerrank.com/domains/cpp">C++</a></li>
+        <li><a href="https://www.hackerrank.com/domains/java">Java</a></li>
+        <li><a href="https://www.hackerrank.com/domains/python">Python</a></li>
+        <li><a href="https://www.hackerrank.com/domains/ruby">Ruby</a></li>
+        <li><a href="https://www.hackerrank.com/domains/shell">Linux Shell</a></li>
+        <li><a href="https://www.hackerrank.com/domains/fp">Functional Programming</a></li>
+        <li><a href="https://www.hackerrank.com/domains/ai">Artificial Intelligence</a></li>
+        <li><a href="https://www.hackerrank.com/domains/sql">SQL</a></li>
+        <li><a href="https://www.hackerrank.com/domains/databases">Databases</a></li>
+        <li><a href="https://www.hackerrank.com/domains/regex">Regex</a></li>
+    </ul>
+</details>
 
-## Domains
-1. [Algorithms](https://www.hackerrank.com/domains/algorithms)
-2. [Data Structures](https://www.hackerrank.com/domains/data-structures)
-3. [Mathematics](https://www.hackerrank.com/domains/mathematics) 
-4. [C](https://www.hackerrank.com/domains/c)
-5. [C++](https://www.hackerrank.com/domains/cpp)
-6. [Java](https://www.hackerrank.com/domains/java)
-7. [Python](https://www.hackerrank.com/domains/python)
-8. [Ruby](https://www.hackerrank.com/domains/ruby)
-9. [Linux Shell](https://www.hackerrank.com/domains/shell)
-10. [Functional Programming](https://www.hackerrank.com/domains/fp)
-11. [Artificial Intelligence](https://www.hackerrank.com/domains/ai)
-12. [SQL](https://www.hackerrank.com/domains/sql)
-13. [Databases](https://www.hackerrank.com/domains/databases)
-14. [Regex](https://www.hackerrank.com/domains/regex)
+<details>
+    <summary><b>Tutorials</b></summary>
+    <ul>
+        <li><a href="https://www.hackerrank.com/interview">Interview Preparation Kit</a></li>
+        <li><a href="https://www.hackerrank.com/domains/tutorials/30-days-of-code">30 Days of Code</a></li>
+        <li><a href="https://www.hackerrank.com/domains/tutorials/10-days-of-statistics">10 Days of Statistics</a></li>
+        <li><a href="https://www.hackerrank.com/domains/tutorials/10-days-of-javascript">10 Days of JavaScript</a></li>
+    </ul>
+</details>
 
-## Tutorials
-1. [Interview Preparation Kit](https://www.hackerrank.com/interview) 
-2. [Learn To Code in 30 Days](https://www.hackerrank.com/domains/tutorials/30-days-of-code) 
-3. [10 Days of Statistics](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics)
-4. [10 Days of Javascript](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript) 
-
-
-This repository contains solutions to the Interview Preparation Kit Tutorial on HackerRank. My
-HackerRank profile can be viewed [here](https://www.hackerrank.com/anishviewer).
+This repository contains solutions to the 
+[Interview Preparation Kit Tutorial](https://www.hackerrank.com/interview)
+on HackerRank. My HackerRank profile can be viewed [here](https://www.hackerrank.com/anishviewer).
 
 To Contribute have a look at [CONTRIBUTING.md](CONTRIBUTING.md) and happy coding 😀 🐱‍💻
 
@@ -43,8 +50,15 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Python](https://www.hackerrank.com/domains/python) | [Solutions Repository](https://github.com/anishLearnsToCode/hackerrank-python) |
 
 ## Sub Domains & Problems (+Solutions) in the Interview Preparation Kit
+Quick Links ⚡ : 
+[Warm Up Challenges](#warm-up-challenges-) |
+[Arrays](#arrays-) |
+[String Manipulation](#string-manipulation-) |
+[Search](#search-) |
+[Dictionaries and Hashmap](#dictionaries-and-hashmaps) |
+[Graphs](#graphs-) |
 
-### Warm Up Challenges 
+### Warm Up Challenges [👆](#sub-domains--problems-solutions-in-the-interview-preparation-kit) 
 | Problem | Difficulty | Solution Link |
 |---------|------------|:-------------:|
 | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit/blob/master/src/warmup/SockMerchant.java) |
@@ -52,7 +66,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Jumping on the clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit/blob/master/src/warmup/JumpingOnTheClouds.java) |
 | [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit/blob/master/src/warmup/RepeatedString.java) |
 
-### Arrays
+### Arrays [👆](#sub-domains--problems-solutions-in-the-interview-preparation-kit)
 | Problem | Difficulty | Solution Link |
 |---------|------------|:-------------:|
 | [Arrays Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit/blob/master/src/arrays/LeftRotation.java) |
@@ -61,7 +75,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2/problem) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit/blob/master/src/arrays/MinimumSwaps2.java) |
 | [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem) | Hard | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit/blob/master/src/arrays/ArrayManipulation.java) |
 
-### String Manipulation
+### String Manipulation [👆](#sub-domains--problems-solutions-in-the-interview-preparation-kit)
 | Problem | Difficulty | Solution Link |
 |---------|------------|:-------------:|
 | [Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit/blob/master/src/string/StringsMakingAnagrams.java) |
@@ -70,7 +84,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Special String Again](https://www.hackerrank.com/challenges/special-palindrome-again/problem) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit/blob/master/src/string/SpecialStringAgain.java) |
 | [Common Child](https://www.hackerrank.com/challenges/common-child/problem) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit/blob/master/src/string/CommonChild.java) |
 
-### Search
+### Search [👆](#sub-domains--problems-solutions-in-the-interview-preparation-kit)
 | Problem | Difficulty | Solution Link |
 |---------|------------|:-------------:|
 | [Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo/problem) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit/blob/master/src/search/SwapNodesAlgo.java) |
@@ -81,7 +95,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Maximum Subarray Sum](https://www.hackerrank.com/challenges/maximum-subarray-sum/problem) | Hard | [![Python](https://img.icons8.com/color/35/000000/python.png)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit/blob/master/src/search/maximum-sum-subarray.py) |
 | [Making Candies]() | Hard | |
 
-### Dictionaries and Hashmaps
+### Dictionaries and Hashmaps [👆](#sub-domains--problems-solutions-in-the-interview-preparation-kit)
 | Problem | Difficulty | Solution Link |
 |---------|------------|:-------------:|
 | [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit/blob/master/src/dictionaries/HashTablesRansomNote.java) |
@@ -90,7 +104,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Count Triplets](https://www.hackerrank.com/challenges/count-triplets-1/problem) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit/blob/master/src/dictionaries/CountTriplets.java) |
 | [Frequency Queries](https://www.hackerrank.com/challenges/frequency-queries/problem) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit/blob/master/src/dictionaries/FrequencyQueries.java) |
 
-### Graphs
+### Graphs [👆](#sub-domains--problems-solutions-in-the-interview-preparation-kit)
 | Problem | Difficulty | Solution Link |
 |---------|------------|:-------------:|
 | [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development/problem) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit/blob/master/src/graphs/RoadsAndLibraries.java) |
