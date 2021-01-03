@@ -1,9 +1,9 @@
 # HackerRank Interview Preparation Kit
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-103/426-1f425f.svg)
-![java](https://img.shields.io/badge/Java-102/426-1abc9c.svg)
-![python](https://img.shields.io/badge/Python-2/426-1abc9c.svg)
-![cpp](https://img.shields.io/badge/C++-1/426-1abc9c.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-30/69-1f425f.svg)
+![java](https://img.shields.io/badge/Java-28/69-1abc9c.svg)
+![python](https://img.shields.io/badge/Python-2/69-1abc9c.svg)
+![cpp](https://img.shields.io/badge/C++-1/69-1abc9c.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/anishLearnsToCode/competitive-programming)
 [![cp](https://img.shields.io/badge/also%20see-My%20Hackerrank%20Profile-1f72ff.svg)](https://www.hackerrank.com/anishviewer)
