@@ -98,14 +98,68 @@ To Contribute have a look at [CONTRIBUTING.md](CONTRIBUTING.md) and happy coding
 
 ### Greedy Algorithms ![problems-solved](https://img.shields.io/badge/Solved-0/5-1abc9c.svg)
 
+| Problem | Difficulty | Solution Link |
+|---------|------------|:-------------:|
+| [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array) | Easy | |
+| [Luck Balance](https://www.hackerrank.com/challenges/luck-balance) | Easy | |
+| [Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist) | Medium | |
+| [Max Min](https://www.hackerrank.com/challenges/angry-children) | Medium | |
+| [Reverse Shuffle Merge](https://www.hackerrank.com/challenges/reverse-shuffle-merge) | Advanced | |
+
 ### Dynamic Programming ![problems-solved](https://img.shields.io/badge/Solved-0/4-1abc9c.svg)
+
+| Problem | Difficulty | Solution Link |
+|---------|------------|:-------------:|
+| [Max Array Sum](https://www.hackerrank.com/challenges/max-array-sum) | Medium | |
+| [Abbreviation](https://www.hackerrank.com/challenges/abbr) | Medium | |
+| [Candies](https://www.hackerrank.com/challenges/candies) | Medium | |
+| [Decibinary Numbers](https://www.hackerrank.com/challenges/decibinary-numbers) | Hard | |
 
 ### Stacks and Queues ![problems-solved](https://img.shields.io/badge/Solved-0/6-1abc9c.svg)
 
+| Problem | Difficulty | Solution Link |
+|---------|------------|:-------------:|
+| [Queues: A Tale of 2 Stacks](https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks) | Medium | |
+| [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets) | Medium | |
+| [Largest Rectangle](https://www.hackerrank.com/challenges/largest-rectangle) | Medium | |
+| [Min Max Riddle](https://www.hackerrank.com/challenges/min-max-riddle) | Medium | |
+| [Castle On The Grid](https://www.hackerrank.com/challenges/castle-on-the-grid) | Medium | |
+| [Poisonous Plants](https://www.hackerrank.com/challenges/poisonous-plants) | Hard | |
+
 ### Trees ![problems-solved](https://img.shields.io/badge/Solved-0/5-1abc9c.svg)
+
+| Problem | Difficulty | Solution Link |
+|---------|:----------:|:-------------:|
+| [Tree: Height of Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree) | Easy | |
+| [Binary Search Tree: Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor) | Easy | |
+| [Tree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding) | Medium | |
+| [Trees: Is This Binary Search Tree?](https://www.hackerrank.com/challenges/ctci-is-binary-search-tree) | Medium | |
+| [Balanced Forest](https://www.hackerrank.com/challenges/balanced-forest) | Hard | |
 
 ### Linked Lists ![problems-solved](https://img.shields.io/badge/Solved-0/5-1abc9c.svg)
 
+| Problem | Difficulty | Solution Link |
+|---------|:----------:|:-------------:|
+| [Linked Lists: Detect a Cycle](https://www.hackerrank.com/challenges/ctci-linked-list-cycle) | Easy | |
+| [Insert A Node at Specific Position In a Linked List](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list) | Easy | |
+| [Inserting a Node into a Sorted Doubly Linked List](https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list) | Easy | |
+| [Reverse A Doubly Linked List](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list) | Easy | |
+| [Find Merge Points of Two Lists](https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists) | Easy | |
+
 ### Recursion and Backtracking ![problems-solved](https://img.shields.io/badge/Solved-0/4-1abc9c.svg)
 
+| Problem | Difficulty | Solution Link |
+|---------|:----------:|:-------------:|
+| [Recursion: Fibonacci Numbers](https://www.hackerrank.com/challenges/ctci-fibonacci-numbers) | Easy | |
+| [Recursion: Davis' Staircase](https://www.hackerrank.com/challenges/ctci-recursive-staircase) | Medium | |
+| [Crossword Puzzle](https://www.hackerrank.com/challenges/crossword-puzzle) | Medium | |
+| [Recursive Digit Sum](https://www.hackerrank.com/challenges/recursive-digit-sum) | Medium | |
+
 ### Miscellaneous ![problems-solved](https://img.shields.io/badge/Solved-0/4-1abc9c.svg)
+
+| Problem | Difficulty | Solution Link |
+|---------|:----------:|:-------------:|
+| [Flipping Bits](https://www.hackerrank.com/challenges/flipping-bits) | Easy | |
+| [Time Complexity: Primality](https://www.hackerrank.com/challenges/ctci-big-o) | Medium | |
+| [Friend Circle Queries](https://www.hackerrank.com/challenges/friend-circle-queries) | Medium | |
+| [Maximum XOR](https://www.hackerrank.com/challenges/maximum-xor) | Medium | |
