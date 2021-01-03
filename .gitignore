@@ -1,4 +1,7 @@
 .idea
-techie-delight.iml
+*.iml
 out
 lib
+dist
+venv
+__pycache__
