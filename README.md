@@ -31,7 +31,7 @@ To Contribute have a look at [CONTRIBUTING.md](CONTRIBUTING.md) and happy coding
 | [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/arrays/TwoDArrayDs.java) [![py](https://img.icons8.com/color/35/000000/python.png)](python/array/2D_array_ds.py) |
 | [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/arrays/NewYearChaos.java) [![py](https://img.icons8.com/color/35/000000/python.png)](python/array/new_year_chaos.py) |
 | [Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2/problem) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/arrays/MinimumSwaps2.java) [![py](https://img.icons8.com/color/35/000000/python.png)](python/array/minimum_swaps_2.py) |
-| [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem) | Hard | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/arrays/ArrayManipulation.java) [![py](https://img.icons8.com/color/35/000000/python.png)](python/array/) |
+| [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem) | Hard | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/arrays/ArrayManipulation.java) [![py](https://img.icons8.com/color/35/000000/python.png)](python/array/array_manipulation.py) |
 
 ### String Manipulation ![problems-solved](https://img.shields.io/badge/Solved-5/5-1abc9c.svg)
 | Problem | Difficulty | Solution Link |
