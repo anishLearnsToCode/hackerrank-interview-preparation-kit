@@ -2,7 +2,7 @@
 
 ![problems-solved](https://img.shields.io/badge/Problems%20Solved-30/69-1f425f.svg)
 ![java](https://img.shields.io/badge/Java-28/69-1abc9c.svg)
-![python](https://img.shields.io/badge/Python-2/69-1abc9c.svg)
+![python](https://img.shields.io/badge/Python-3/69-1abc9c.svg)
 ![cpp](https://img.shields.io/badge/C++-1/69-1abc9c.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/anishLearnsToCode/competitive-programming)
@@ -15,27 +15,12 @@ on HackerRank. My HackerRank profile can be viewed [here](https://www.hackerrank
 To Contribute have a look at [CONTRIBUTING.md](CONTRIBUTING.md) and happy coding 😀 🐱‍💻
 
 ## Sub Domains & Problems (+Solutions) in the Interview Preparation Kit
-⚡ Quick Links: 
-[Warm Up Challenges](#warm-up-challenges-) |
-[Arrays](#arrays-) |
-[String Manipulation](#string-manipulation-) |
-[Search](#search-) |
-[Dictionaries and Hashmap](#dictionaries-and-hashmaps) |
-[Graphs](#graphs-) |
-[Sorting](#sorting-) |
-[Greedy Algorithms](#greedy-algorithms-) |
-[Dynamic Programming](#dynamic-programming-) |
-[Stacks and Queues](#stacks-and-queues-) |
-[Trees](#trees-) |
-[Linked Lists](#linked-lists-) |
-[Recursion and Backtracking](#recursion-and-backtracking-) |
-[Miscellaneous](#miscellaneous-) |
 
 ### Warm Up Challenges  ![problems-solved](https://img.shields.io/badge/Solved-4/4-1abc9c.svg)
 | Problem | Difficulty | Solution Link |
 |---------|------------|:-------------:|
-| [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/warmup/SockMerchant.java) |
-| [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem?h_l=interview) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/warmup/CountingValleys.java) |
+| [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/warmup/SockMerchant.java) [![py](https://img.icons8.com/color/35/000000/python.png)](python/sales_by_match.py)|
+| [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/warmup/CountingValleys.java) |
 | [Jumping on the clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/warmup/JumpingOnTheClouds.java) |
 | [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/warmup/RepeatedString.java) |
 
