@@ -2,7 +2,7 @@
 
 ![problems-solved](https://img.shields.io/badge/Problems%20Solved-30/69-1f425f.svg)
 ![java](https://img.shields.io/badge/Java-28/69-1abc9c.svg)
-![python](https://img.shields.io/badge/Python-3/69-1abc9c.svg)
+![python](https://img.shields.io/badge/Python-6/69-1abc9c.svg)
 ![cpp](https://img.shields.io/badge/C++-1/69-1abc9c.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/anishLearnsToCode/competitive-programming)
@@ -22,7 +22,7 @@ To Contribute have a look at [CONTRIBUTING.md](CONTRIBUTING.md) and happy coding
 | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/warmup/SockMerchant.java) [![py](https://img.icons8.com/color/35/000000/python.png)](python/sales_by_match.py) |
 | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/warmup/CountingValleys.java) [![py](https://img.icons8.com/color/35/000000/python.png)](python/counting_valleys.py) |
 | [Jumping on the clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/warmup/JumpingOnTheClouds.java) [![py](https://img.icons8.com/color/35/000000/python.png)](python/jumping_on_the_clouds.py) |
-| [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/warmup/RepeatedString.java) |
+| [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/warmup/RepeatedString.java) [![py](https://img.icons8.com/color/35/000000/python.png)](python/repeated_string.py) |
 
 ### Arrays ![problems-solved](https://img.shields.io/badge/Solved-5/5-1abc9c.svg)
 | Problem | Difficulty | Solution Link |
