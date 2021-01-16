@@ -19,9 +19,9 @@ To Contribute have a look at [CONTRIBUTING.md](CONTRIBUTING.md) and happy coding
 ### Warm Up Challenges  ![problems-solved](https://img.shields.io/badge/Solved-4/4-1abc9c.svg)
 | Problem | Difficulty | Solution Link |
 |---------|------------|:-------------:|
-| [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/warmup/SockMerchant.java) [![py](https://img.icons8.com/color/35/000000/python.png)](python/sales_by_match.py)|
-| [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/warmup/CountingValleys.java) |
-| [Jumping on the clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/warmup/JumpingOnTheClouds.java) |
+| [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/warmup/SockMerchant.java) [![py](https://img.icons8.com/color/35/000000/python.png)](python/sales_by_match.py) |
+| [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/warmup/CountingValleys.java) [![py](https://img.icons8.com/color/35/000000/python.png)](python/counting_valleys.py) |
+| [Jumping on the clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/warmup/JumpingOnTheClouds.java) [![py](https://img.icons8.com/color/35/000000/python.png)](python/jumping_on_the_clouds.py) |
 | [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/warmup/RepeatedString.java) |
 
 ### Arrays ![problems-solved](https://img.shields.io/badge/Solved-5/5-1abc9c.svg)
