@@ -19,10 +19,10 @@ To Contribute have a look at [CONTRIBUTING.md](CONTRIBUTING.md) and happy coding
 ### Warm Up Challenges  ![problems-solved](https://img.shields.io/badge/Solved-4/4-1abc9c.svg)
 | Problem | Difficulty | Solution Link |
 |---------|------------|:-------------:|
-| [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/warmup/SockMerchant.java) [![py](https://img.icons8.com/color/35/000000/python.png)](python/sales_by_match.py) |
-| [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/warmup/CountingValleys.java) [![py](https://img.icons8.com/color/35/000000/python.png)](python/counting_valleys.py) |
-| [Jumping on the clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/warmup/JumpingOnTheClouds.java) [![py](https://img.icons8.com/color/35/000000/python.png)](python/jumping_on_the_clouds.py) |
-| [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/warmup/RepeatedString.java) [![py](https://img.icons8.com/color/35/000000/python.png)](python/repeated_string.py) |
+| [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/warmup/SockMerchant.java) [![py](https://img.icons8.com/color/35/000000/python.png)](python/warmup/sales_by_match.py) |
+| [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/warmup/CountingValleys.java) [![py](https://img.icons8.com/color/35/000000/python.png)](python/warmup/counting_valleys.py) |
+| [Jumping on the clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/warmup/JumpingOnTheClouds.java) [![py](https://img.icons8.com/color/35/000000/python.png)](python/warmup/jumping_on_the_clouds.py) |
+| [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/warmup/RepeatedString.java) [![py](https://img.icons8.com/color/35/000000/python.png)](python/warmup/repeated_string.py) |
 
 ### Arrays ![problems-solved](https://img.shields.io/badge/Solved-5/5-1abc9c.svg)
 | Problem | Difficulty | Solution Link |
@@ -36,8 +36,8 @@ To Contribute have a look at [CONTRIBUTING.md](CONTRIBUTING.md) and happy coding
 ### String Manipulation ![problems-solved](https://img.shields.io/badge/Solved-5/5-1abc9c.svg)
 | Problem | Difficulty | Solution Link |
 |---------|------------|:-------------:|
-| [Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/string/StringsMakingAnagrams.java) |
-| [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/string/AlternatingCharacters.java) |
+| [Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/string/StringsMakingAnagrams.java) [![py](https://img.icons8.com/color/35/000000/python.png)](python/string-manipulation/making_anagrams.py) |
+| [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/string/AlternatingCharacters.java) [![py](https://img.icons8.com/color/35/000000/python.png)](python/string-manipulation/alternating_characters.py) |
 | [Sherlock and The Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/string/SherlockAndValidStrings.java) |
 | [Special String Again](https://www.hackerrank.com/challenges/special-palindrome-again/problem) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/string/SpecialStringAgain.java) |
 | [Common Child](https://www.hackerrank.com/challenges/common-child/problem) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/string/CommonChild.java) |
