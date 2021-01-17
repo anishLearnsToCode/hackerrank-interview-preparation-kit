@@ -2,7 +2,7 @@
 
 ![problems-solved](https://img.shields.io/badge/Problems%20Solved-30/69-1f425f.svg)
 ![java](https://img.shields.io/badge/Java-28/69-1abc9c.svg)
-![python](https://img.shields.io/badge/Python-6/69-1abc9c.svg)
+![python](https://img.shields.io/badge/Python-16/69-1abc9c.svg)
 ![cpp](https://img.shields.io/badge/C++-1/69-1abc9c.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/anishLearnsToCode/competitive-programming)
@@ -56,7 +56,7 @@ To Contribute have a look at [CONTRIBUTING.md](CONTRIBUTING.md) and happy coding
 ### Dictionaries and Hashmaps ![problems-solved](https://img.shields.io/badge/Solved-5/5-1abc9c.svg)
 | Problem | Difficulty | Solution Link |
 |---------|------------|:-------------:|
-| [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/dictionaries/HashTablesRansomNote.java) |
+| [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/dictionaries/HashTablesRansomNote.java) [![py](https://img.icons8.com/color/35/000000/python.png)](python/dictionary/hash_table_ransom_note.py) |
 | [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/dictionaries/TwoStrings.java) |
 | [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/dictionaries/SherlockAndAnagrams.java) |
 | [Count Triplets](https://www.hackerrank.com/challenges/count-triplets-1/problem) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/dictionaries/CountTriplets.java) |
