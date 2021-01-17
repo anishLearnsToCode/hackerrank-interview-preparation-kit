@@ -57,7 +57,7 @@ To Contribute have a look at [CONTRIBUTING.md](CONTRIBUTING.md) and happy coding
 | Problem | Difficulty | Solution Link |
 |---------|------------|:-------------:|
 | [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/dictionaries/HashTablesRansomNote.java) [![py](https://img.icons8.com/color/35/000000/python.png)](python/dictionary/hash_table_ransom_note.py) |
-| [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/dictionaries/TwoStrings.java) |
+| [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/dictionaries/TwoStrings.java) [![py](https://img.icons8.com/color/35/000000/python.png)](python/dictionary/two_strings.py) |
 | [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/dictionaries/SherlockAndAnagrams.java) |
 | [Count Triplets](https://www.hackerrank.com/challenges/count-triplets-1/problem) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/dictionaries/CountTriplets.java) |
 | [Frequency Queries](https://www.hackerrank.com/challenges/frequency-queries/problem) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/dictionaries/FrequencyQueries.java) |
